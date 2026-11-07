@@ -1,0 +1,17 @@
+# Java / Build
+*.class
+build/
+out/
+target/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# 민감정보
+.env
+*.pem
+application-local.*
